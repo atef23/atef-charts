@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ai-ml-workshop-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-06-05T11:00:24.83478935-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 9fcf75f167fe684ebd89a0c2660b9b330a6f5c6eff05d6d30ea48e206554484f
+    name: ai-ml-workshop-chart
+    type: application
+    urls:
+    - ai-ml-workshop-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-05T11:00:24.834070079-04:00"
